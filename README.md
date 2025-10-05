@@ -39,16 +39,9 @@
 - Audience reach: 250K+ professionals via social and partner channels  
 - Branded series concepts (e.g., *Fintech Fridays*, *Leaders in Lending*)  
 
-## Metrics
-| KPI | Target |
-|-----|--------|
-| Avg. Episode Downloads | 2,000+ |
-| LinkedIn Engagement | 10K+ views/clip |
-| Guest Referrals | 30% of bookings |
-| Sponsor ROI | 4:1 minimum |
 
 ## Tools
-Riverside | Canva | Descript | HubSpot | LinkedIn | YouTube | GetResponse  
+Streamyard | Canva | Descript | HubSpot | LinkedIn | YouTube | GetResponse  
 
 ## About
 I’m **Kelly Yale** — fractional CMO, brand strategist, and host of *Minds of Mortgage*.  
